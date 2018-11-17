@@ -21,6 +21,8 @@ a:link {
 }
 .pagePic {
   width: 90vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
   display: flex;
   align-items: center;
   vertical-align: center;
@@ -58,4 +60,15 @@ footer {
 }
 footer {
   margin-top: 25px;
+}
+.contactLink {
+  margin-top: 10px;
+}
+@media only screen and (min-width: 768px) {
+  .container {
+    width: 50vw;
+  }
+  .pagePic {
+    width: 50vw;
+  }
 }
