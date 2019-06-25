@@ -66,9 +66,10 @@ footer {
 }
 @media only screen and (min-width: 768px) {
   .container {
-    width: 50vw;
+    width: 500px;
   }
   .pagePic {
-    width: 50vw;
+    width: 500px;
   }
 }
+
